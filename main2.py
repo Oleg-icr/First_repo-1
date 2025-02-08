@@ -17,4 +17,5 @@ while i < num :
     sum = sum + num
     i = i + 1
 
+
 print (sum)
