@@ -18,4 +18,3 @@ while i < num :
     i = i + 1
 
 print (sum)
-
