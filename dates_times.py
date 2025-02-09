@@ -76,3 +76,4 @@ print (end_time)
 # Розраховуємо та виводимо час виконання
 execution_time = end_time - start_time
 print(f"Час виконання: {execution_time} секунд")
+
