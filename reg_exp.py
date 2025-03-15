@@ -18,3 +18,7 @@ if i:
     domain_name = i.group(2)
     print("Ім'я користувача:", user_name)
     print("Домен:", domain_name)
+
+
+
+
